@@ -1,0 +1,50 @@
+.botao {
+    background: #6278F7;
+    color: #FFF;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 12px;
+    border: none;
+    cursor: pointer;
+    margin: 25px;
+}
+
+.botao:hover {
+    color: #95FFD4;
+}
+
+.cabecalho {
+    background-color: #F0F0F0;
+    border-radius: 10px 10px 0px 0px;
+}
+
+img {
+    width: 130px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.rodape {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.rodape h4 {
+    color: #6278F7;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.rodape h5 {
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 16px;
+}

@@ -1,0 +1,64 @@
+.campo {
+    margin: 24px 0;
+}
+
+.campo label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.campo input {
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.campo-color input {
+    height: 40px;
+    padding: 5px 24px;
+}
+
+.botao {
+    background: #6278F7;
+    color: #FFF;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 12px;
+    border: none;
+    cursor: pointer;
+    margin: 25px;
+}
+
+.botao:hover {
+    color: #95FFD4;
+}
+
+.informacoes-cep {
+    text-align: initial;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+}
+
+.informacoes-cep p {
+    margin-bottom: -13px;
+}
+
+.informacoes-cep h4 {
+    margin-bottom: 0px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    background-color: #5d6a83;
+}
